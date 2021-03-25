@@ -1,6 +1,6 @@
 {
-    "name": "grimzy/laravel-mysql-spatial",
-    "description": "MySQL spatial data types extension for Laravel.",
+    "name": "abolouri/laravel-mysql-spatial",
+    "description": "MySQL spatial data types extension for Laravel, based on grimzy's plugin with custom connection resolver support",
     "scripts": {
         "test": "phpunit -c phpunit.xml.dist",
         "test:unit": "phpunit -c phpunit.xml.dist --testsuite unit",
